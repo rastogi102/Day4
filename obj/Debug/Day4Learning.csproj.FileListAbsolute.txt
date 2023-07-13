@@ -1,0 +1,8 @@
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Day 4 Learning\Day4Learning\Day4Learning\bin\Debug\Day4Learning.exe.config
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Day 4 Learning\Day4Learning\Day4Learning\bin\Debug\Day4Learning.exe
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Day 4 Learning\Day4Learning\Day4Learning\bin\Debug\Day4Learning.pdb
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Day 4 Learning\Day4Learning\Day4Learning\obj\Debug\Day4Learning.csproj.AssemblyReference.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Day 4 Learning\Day4Learning\Day4Learning\obj\Debug\Day4Learning.csproj.SuggestedBindingRedirects.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Day 4 Learning\Day4Learning\Day4Learning\obj\Debug\Day4Learning.csproj.CoreCompileInputs.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Day 4 Learning\Day4Learning\Day4Learning\obj\Debug\Day4Learning.exe
+F:\Mphasis training stuff\Dot netTraining\DAY- 4\Day 4 Learning\Day4Learning\Day4Learning\obj\Debug\Day4Learning.pdb
